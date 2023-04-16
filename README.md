@@ -1,4 +1,4 @@
-## Feature Kit: Features for ML/DL modeling
+## Feature Kit: Features for ML/DL Modeling
 
 - Malware Classification
 - Traffic Fingerprinting
