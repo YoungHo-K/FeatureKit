@@ -1,4 +1,4 @@
-## Feature Extractor: Features for ML/DL Modeling
+## Feature Kit: Features for ML/DL Modeling
 
 - Malware Classification
 - Traffic Fingerprinting
